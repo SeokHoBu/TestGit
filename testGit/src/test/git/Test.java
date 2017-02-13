@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("번호 입력");
 		int a = sc.nextInt();
 		
+		System.out.println("1231");
 
 	}
 
